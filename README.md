@@ -93,7 +93,8 @@ plt.show()
 ![Screenshot 2025-04-25 185232](https://github.com/user-attachments/assets/15e65096-8c4c-4b02-86ba-1943af0b5489)
 
 # Graph(FSK)
-![WhatsApp Image 2025-04-25 at 9 00 53 PM](https://github.com/user-attachments/assets/458b7fdc-9720-479b-82bd-8d9a0de06396)
+![Screenshot 2025-05-11 203006](https://github.com/user-attachments/assets/3fdc5b00-3dab-4a24-b37c-02f55078d9ee)
+
 
 
 # Results
